@@ -119,8 +119,5 @@ export const th_TH: typeof zh_CN = {
 
   SETTING_TURN_ON_STEAM_PATCH: en.SETTING_TURN_ON_STEAM_PATCH, // TODO: Translate
 
-  UPDATE_PROMPT_IGNORE: "ละเว้นการอัปเดต",
-  SETTING_CHECK_UPDATE: "ตรวจสอบการอัปเดต YAAGL",
-  ALREADY_LATEST_VERSION: "คุณใช้เวอร์ชันล่าสุดอยู่แล้ว",
-  UPDATE_LAUNCHER: "อัปเดต Launcher",
+  SETTING_DISABLE_UPDATE_NOTICES: en.SETTING_DISABLE_UPDATE_NOTICES, // TODO: Translate
 };
